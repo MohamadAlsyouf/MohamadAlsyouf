@@ -9,7 +9,7 @@
 
 ### About Me 👨‍💻
 
-I'm Mohamad, an aspiring web developer on the pursuit of knowledge. Prior to beginning my journey into software, I worked as a general contracting apprentice for a home remodeling company. During my time as an apprentice, I discovered a newfound passion for learning new skills and solving problems. This journey then lead me into an accelerated full stack web development program. Having been intrigued by technology my entire life, I'm motivated to combine my love for problem solving and interest in software into creating applications that will positively impact the lives of others.
+My name is Mohamad, and I'm an aspiring web developer on a quest for knowledge. Prior to embarking on my software journey, I worked as a general contracting apprentice for a home remodeling company. During my apprenticeship, I discovered a newfound passion for learning new skills and problem solving. This adventure eventually led me to an accelerated full stack web development program. I've been fascinated by technology my entire life, and I'm inspired to combine my love of problem solving and interest in software to create applications that will improve the lives of others.
 
 ### Hobbies :earth_americas:
 
