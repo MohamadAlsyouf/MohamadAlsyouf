@@ -15,7 +15,7 @@ My name is Mohamad, and I'm an aspiring web developer on a quest for knowledge. 
 
 * ⛰️ Hiking
 * :musical_note: Music
-* 🚗 Cars
+* 🚗 Project Cars
 * :family: Family
 
 ### Let's Connect! 📫
