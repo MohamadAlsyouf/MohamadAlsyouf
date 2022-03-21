@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 [![Mohamad Alsyouf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamadAlsyouf&hide=contribs,stars&theme=blueberry)](https://github.com/MohamadAlsyouf/github-readme-stats)
 
