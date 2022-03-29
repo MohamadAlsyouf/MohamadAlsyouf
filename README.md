@@ -4,7 +4,7 @@
 
 * 💻 Currently working on stretch features for [Fun 2 Learn](https://fun-2-learn.herokuapp.com/) and on the search for job opportunities!
 * 📚 Stack - React, JavaScript, CSS3, HTML5, Node.js, Express.js, PostgreSQL
-* 🛠️ Tools - NPM, Babel, Webpack, Git, Github, Slack, VS Code
+* 🛠️ Tools - NPM, Babel, Webpack, Git, Github, Slack, Heroku, JSX, VS Code
 * 💡 Open to learning new technologies!
 
 ### About Me 👨‍💻
