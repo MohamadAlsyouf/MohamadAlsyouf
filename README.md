@@ -2,9 +2,9 @@
 
 [![Mohamad Alsyouf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamadAlsyouf&hide=contribs,stars&theme=blueberry)](https://github.com/MohamadAlsyouf/github-readme-stats)
 
-* 💻 Currently learning more about React and MongoDB and on the search for job opportunities!
+* 💻 Currently learning more about React and on the search for job opportunities!
 * 📚 Stack - React, JavaScript, CSS3, HTML5, Node.js, Express.js, PostgreSQL
-* 🛠️ Tools - NPM, Babel, Webpack, Git, Github, Slack, Heroku, JSX, VS Code
+* 🛠️ Tools - NPM, Babel, Webpack, Git, Github, Slack, Heroku, JSX, Adobe Photoshop, VS Code
 * 💡 Open to learning new technologies!
 
 ### About Me 👨‍💻
