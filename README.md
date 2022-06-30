@@ -14,9 +14,9 @@ I'm a web developer on a life-long quest for knowledge. Prior to embarking on my
 
 ### Hobbies :earth_americas:
 
-* ⛰️ Hiking
-* :musical_note: Music
-* 🚗 Project Cars
+* ⛰️ Hiking - the Colorado Rockies!
+* :musical_note: Music - Classical, Jazz, Math Rock, Psych Rock
+* 🚗 Project Cars - Classic BMWs
 * :family: Family
 
 ### Let's Connect! 📫
