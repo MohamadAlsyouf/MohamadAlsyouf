@@ -1,6 +1,6 @@
 ### Hey there 👋 My name is Mohamad 👨‍💻
 
-I'm a web developer on a life-long quest for knowledge. Prior to embarking on my software journey, I worked as a general contracting apprentice for a home remodeling company. During my apprenticeship, I discovered a newfound passion for learning new skills and problem solving. This adventure eventually led me to an accelerated full stack web development program. I've been fascinated by technology my entire life, and I'm motivated to combine my love of problem solving and interest in software to create applications that will improve the lives of others.
+I'm a web developer on a life-long quest for knowledge. I've been fascinated by technology my entire life, and I'm motivated to combine my love of problem solving and interest in software to create applications that will improve the lives of others.
 
 * 💻 Currently learning more about React and on the search for job opportunities!
 * 📚 Stack - React, TypeScript, JavaScript, Redux, CSS3, HTML5, Cypress.js, Node.js, Express.js, PostgreSQL, MySQL
