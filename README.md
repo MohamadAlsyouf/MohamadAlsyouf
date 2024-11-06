@@ -2,9 +2,8 @@
 
 I'm a web developer on a life-long quest for knowledge. I've been fascinated by technology my entire life, and I'm motivated to combine my love of problem solving and interest in software to create applications that will improve the lives of others.
 
-* 💻 Currently learning more about React and on the search for job opportunities!
-* 📚 Stack - React, TypeScript, JavaScript, Redux, CSS3, HTML5, Cypress.js, Node.js, Express.js, PostgreSQL, MySQL
-* 🛠️ Tools - NPM, Babel, Webpack, Git, Github, Slack, Heroku, JSX, Adobe Photoshop, VS Code, Socket.io, Postman
+* 📚 Stack - React, TypeScript, JavaScript, Redux, Tailwind.css, HTML5, Cypress.js, Node.js, Express.js, PostgreSQL, MySQL
+* 🛠️ Tools - NPM, Babel, Webpack, Git, Github, Slack, Heroku, JSX, Adobe Photoshop, VS Code, Socket.io, Postman, AWS
 * 💡 Open to learning new technologies!
 
 ### Languages and Tools :hammer:
@@ -12,10 +11,9 @@ I'm a web developer on a life-long quest for knowledge. I've been fascinated by 
 
 ### Hobbies :earth_americas:
 
-* ⛰️ Hiking - the Colorado Rockies
+* ⛰️ Fishing/Hiking
 * :musical_note: Music - Classical, Jazz, Math Rock, Psych Rock
-* 🚗 Project Cars - Classic BMWs - ask me about my e30 project!
+* 🚗 Project Cars - Classic BMWs - ask me about my E30 project!
 * :family: Family
 
-### Let's Connect! 📫
-* [LinkedIn](https://www.linkedin.com/in/mohamad-alsyouf/)
+### Let's Connect! 📫  [LinkedIn](https://www.linkedin.com/in/mohamad-alsyouf/)
