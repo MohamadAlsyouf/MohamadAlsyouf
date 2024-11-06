@@ -14,6 +14,6 @@ I'm a web developer on a life-long quest for knowledge. I've been fascinated by 
 * ⛰️ Fishing/Hiking
 * :musical_note: Music - Classical, Jazz, Math Rock, Psych Rock
 * 🚗 Project Cars - Classic BMWs - ask me about my E30 project!
-* :family: Family
+* :family: Family & Culture
 
 ### Let's Connect! 📫  [LinkedIn](https://www.linkedin.com/in/mohamad-alsyouf/)
